@@ -1,0 +1,40 @@
+<html>
+  <body>
+    <header>
+      <h1><a href="https://www.linkedin.com/in/jake-herman-80473820/">Jake Herman CV<a/></h1>
+      <h2>Rosevear, South View Road, Wadhurst, TN5 6TW</h2>
+      <h2>07590586031</h2>
+      <h2>jake.t.herman@gmail.com</h2>
+    </header>
+    <main>
+      <section id-"summary">
+        <article>
+          <h2>Equity Trader</h2>
+          <p>An experienced and highly knowledgeable equity trader with a diverse set of professional skills and a wealth of industry knowledge. A natural problem solver and with a pragmatic ‘can do’ attitude. Is the ‘go-to person’ in London equities when a question needs an answer due to extensive experience and attitude.</p>
+        </article>
+      </section>
+      <section id="key skills">
+        <h2>Key Skills</h2>
+        <ul>
+          <li>Problem solver/trading expert in Cash Equity with solid grounding in derviatives</li>
+          <li>Authorised trader at all developed & emerging European venues</li>
+          <li>In depth knowledge MENA stocks exchanges</li>
+          <li>Expert knowledge ADR/GDR/DLC</li>
+          <li>Expert knowledge corporate actions</li>
+          <li>FCA CF certified for Equity and Equity Derivatives (formerly CF30)</li>
+          <li>Bloomberg Professional</li>
+          <li>Fidessa Trading</li>
+          <li>Colleague training & Development </li>
+          <li>Desk Operations</li>
+        </ul>      
+      </section>
+      <section id="career history">
+        <h2>BTIG Limited></h2>
+        <h2>Nov 2021 - Jan 2023</h3>
+        <p>Cash Equity trader responsible for Utilities, Renewables, cross-coverage midcaps and all other sectors. Primary contact point for ADR/GDR trading/queries as well as fx hedging. Traded spreads and pairs.</p>
+       </section>
+       <section>
+        <h2>Morgan Stanley</h2>
+        <h2>
+    </main>     
+  </body>
