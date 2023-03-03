@@ -1,0 +1,90 @@
+body {
+    
+    background-image: url('https://img.freepik.com/premium-vector/abstract-digital-background-with-technology-circuit-board-texture-electronic-motherboard-illustration-communication-engineering-concept-vector-illustration_41981-1820.jpg?w=900');
+    background-position: relative;
+    background-size: 100%;
+}
+
+header {
+    font-family: 'Gajraj One';
+    font-size: 40px;
+    text-align: center;
+    border: 0;
+    border: 0;
+    margin-bottom: 0;
+
+}
+
+p {
+    font-family: 'Roboto', Arial, Helvetica, serif;
+    font-size: 15px;
+}
+
+th, td {
+    font-family: 'Roboto', Arial, Helvetica, serif;;
+    font-size: 15px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: whitesmoke;
+    
+}
+
+th {
+    font-weight: 500;
+    background-color: darkblue;
+    color: whitesmoke
+}
+
+td {
+    font-weight: 300;
+}
+
+table {
+    background-color: orange;
+}
+
+
+
+
+/* classes */
+
+.caption {
+    font-family: 'Roboto Mono';
+    font-weight: 400;
+    text-align: center;
+    font-size: 15px;
+    border: 0px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    
+}
+
+.code {
+    font-family: 'Roboto Mono';
+    font-size: 12px;
+    background-color:rgb(244, 239, 198);
+    font-weight: 500;
+}
+
+.code p {
+    font-size: 15px;
+}
+
+/* id elements */
+
+.intro {
+    margin-bottom: 5px;
+    margin-top: 30px;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.codecademy {
+    background-color: lightgray;
+    color: darkblue;
+}
+
+.codecademy:visited {
+    color: darkblue;
+}
