@@ -1,9 +1,9 @@
 body {
-    background-image: url('https://img.freepik.com/premium-vector/abstract-digital-background-with-technology-circuit-board-texture-electronic-motherboard-illustration-communication-engineering-concept-vector-illustration_41981-1820.jpg?w=900');
-    background-position: relative;
+    position: relative;
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-image: url('https://media.gettyimages.com/id/1088374402/vector/circuit-board-illustration.jpg?s=2048x2048&w=gi&k=20&c=wvx2Xfz8C8Djkq5wiuV46a5g0vUSPkk49kI576XfwE8=');
 }
+
 
 header {
     font-family: 'Gajraj One';
@@ -74,10 +74,13 @@ table {
 /* id elements */
 
 .intro {
+    width: fit-content;
     margin-bottom: 5px;
     margin-top: 30px;
     font-size: 15px;
     font-weight: 300;
+    background-color: rgba(255, 255, 255, 0.5);
+    
 }
 
 .codecademy {
